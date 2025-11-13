@@ -1,5 +1,5 @@
-# My Supabase Postgresql Files
-Every file in here is applicaple to be run on supabase only.
+# My Postgresql Files
+Every file in here is applicaple to be run on postgresql.
 
 ---
 
