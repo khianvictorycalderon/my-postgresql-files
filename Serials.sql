@@ -1,6 +1,7 @@
 -- 3 types of SERIAL
 
 -- NOTE: Serials are not True types of data but rather a shortcut
+-- Serials are most commonly used as id for auto increment
 
 -- Small Serial
 CREATE TABLE users (
