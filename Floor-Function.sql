@@ -1,0 +1,2 @@
+-- Returns the highest integer value that is not bigger than X
+SELECT FLOOR(3.9); -- Returns 3 because 3 is the neareast integer not greater than 3.9, in simple words, just remove the decimal (for positive numbers only)
